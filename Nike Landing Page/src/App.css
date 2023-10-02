@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;1,100&display=swap");
+
+*{
+  margin: 0%;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.img-hero {
+  max-width: 550px;
+}
+.container {
+  margin: 0 auto;
+  max-width: 1280px;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+
+  height: 72px;
+  align-items: center;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  gap: 50px;
+  font-weight: bold;
+  font-size: large;
+  padding-right: 100px;
+}
+
+.hero-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.hero {
+  display: flex;
+  align-items: center;
+  height: calc(100vh-72px);
+  
+}
+
+.hero h1 {
+  font-weight: 900;
+  line-height: 100px;
+  font-size: 120px;
+  color: black;
+}
+
+.hero p {
+  font-weight: 700;
+  color: black;
+  font-size: 20px;
+}
+
+@media (max-width: 445px) {
+  .hero h1 {
+    font-weight: 900;
+    line-height: 60px;
+    font-size: 60px;
+  }
+  .img-hero {
+    max-width: 362px;
+  }
+}
+
+@media (max-width: 991px) {
+  nav ul {
+    gap: 20px;
+    background-color: rgb(144, 172, 175);
+  }
+}
+
+@media (max-width: 300px) {
+  .hero h1 {
+    font-weight: 800;
+    line-height: 60px;
+    font-size: 60px;
+  }
+  .img-hero {
+    max-width: 260px;
+    align-self: baseline;
+  }
+}
