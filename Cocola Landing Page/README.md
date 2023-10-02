@@ -15,4 +15,5 @@ Creating a simple Coca-Cola landing page using HTML and CSS is an excellent prac
 - **CSS Styling**: In the external CSS file (`styles.css`), apply styling to elements throughout the page. Define font styles, colors, layout properties, and visual effects to achieve a cohesive and visually appealing design.
 
 By following this basic structure and applying CSS styling, you can create a simple Coca-Cola landing page as a foundation for further web development exploration and learning. Keep in mind that professional websites often involve more intricate design, interactivity, and functionality.
+
 ![Main](https://github.com/anuragraiii/Project/assets/90954348/da2537b6-dd49-4378-966b-dbdd8cf14513)
