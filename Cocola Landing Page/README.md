@@ -1,4 +1,5 @@
-#Coca-Cola Landing Page
+# Coca-Cola Landing Page
+
 Creating a simple Coca-Cola landing page using HTML and CSS is an excellent practice for honing your web development skills. Here's a basic example of what the HTML and CSS code could resemble for such a landing page, keeping in mind that this is a simplified version for educational purposes. A genuine Coca-Cola landing page would entail greater complexity and more advanced features.
 
 - **HTML Structure**: Begin by setting up the basic HTML structure, including essential sections like header, main content, and footer.
